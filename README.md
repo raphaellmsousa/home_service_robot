@@ -45,7 +45,7 @@ $ git clone https://github.com/turtlebot/turtlebot_simulator
 
 Obs2.: the above packages provided in this repository has some minor changes for this project, but should work with the original ones.
 
-Obs3.: the above ROS packages are submodules, so, to push them to a repository, it is necessary to delete the .git folders from these submodules.
+Obs3.: the above ROS packages are submodules, so, to push them to a repository, it is necessary to delete the .git folders from these submodules. And after all, change the submodules folders name before commit.
 
 ##### 4. Start the shell scripts:
 
