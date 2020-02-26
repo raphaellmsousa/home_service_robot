@@ -6,6 +6,12 @@ This is the final project of the Robot Nanodegree from Udacity. The main goal is
 
 For this project, it was necessary to perform localization, mapping and navigation. Next, it is presented a brief explanation about these problems.
 
+<p align="center">
+    <img src="./figs/wally.png" width="600" height="360" title="Home Service Robot">
+</p> 
+
+[![CLICK HERE TO SEE A REAL IMPLEMENTATION FOR THIS PROJECT](https://www.youtube.com/watch?v=ej-vJydvp90&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=ej-vJydvp90&feature=youtu.be)
+
 ## Localization
 
 Localization isn't an easy task! Consists in determining the pose and orientation (x, y and theta) of the robot in a mapped environment. As presented in the classes, there are 3 types of localization problems: 
